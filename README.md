@@ -1,6 +1,6 @@
 # Personal Loan Acceptance Prediction
 
-## 📌 Project Objective
+## Project Objective
 The goal of this project is to predict which customers are likely to accept a personal loan offer using demographic and campaign-related data. This helps banks target potential customers more efficiently, optimize marketing efforts, and increase loan acceptance rates.
 
 ## 📂 Dataset
@@ -9,7 +9,7 @@ The goal of this project is to predict which customers are likely to accept a pe
 - Target variable: `y` (1 = accepted, 0 = not accepted)  
 - Features include age, job, marital status, education, balance, housing, loan, contact type, campaign, duration, previous outcomes, and economic indicators.
 
-## 🛠️ Approach
+## Approach
 1. **Data Understanding & Cleaning**  
    - Explored dataset structure, checked for duplicates and missing values  
    - Encoded categorical variables and scaled numerical features  
