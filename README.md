@@ -41,7 +41,12 @@ This project demonstrates a structured approach to predicting personal loan acce
 
 ## 🔗 Repository Contents
 - `Personal_Loan.ipynb` → Jupyter Notebook with all steps (1–7)  
-- `README.md` → Project overview, approach, results, and insights  
+- `README.md` → Project overview, approach, results, and insights
+
+- ## Author
+- Rimsha Iram
+- [Check Portfolio](https://www.datascienceportfol.io/rimshairamanalytics)
+- Let’s connect on [LinkedIn](https://www.linkedin.com/in/rimsha-iram-analytics)
 
 ---
 
